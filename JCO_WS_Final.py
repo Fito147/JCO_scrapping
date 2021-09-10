@@ -50,7 +50,7 @@ pages = list (df2['URL'].astype(str).tolist())
 #%%
 #%%
 #%% Tercera Capa
-# Sacar info paper a paper (DOI, titulo, Volume&Issue, first Athor, Last Author, Section)
+# Sacar info paper a paper (DOI, titulo, Volume&Issue, Authors, Section)
 
 titles=list()
 authors=list()
